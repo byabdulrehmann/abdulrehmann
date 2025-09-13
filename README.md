@@ -11,8 +11,6 @@
 🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
 💬 Ask me about anything related to **Python, ML models, LLMs, or Web Automation**.
 
----
-
 ## 🎯 Expertise  
 
 - 📊 **Data Analysis** – uncovering insights from complex datasets  
@@ -20,8 +18,6 @@
 - 🤖 **AI Enthusiast** – passionate about artificial intelligence & deep learning  
 - ⚡ **Web Automation** – developing bots & automation scripts for efficiency  
 - 🧠 **Data Science** – machine learning, predictive modeling & applied research  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -38,8 +34,6 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 
 **🛠️ Tools:**  
  Jupyter | Google Colab | VS Code | Linux | Git   
-
----
 
 ## 🌟 Highlighted Projects  
 
@@ -71,8 +65,6 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 - Integrated **live APIs** for case numbers, vaccinations, and recovery data.  
 - Built with **Python (Pandas, Matplotlib, Plotly)** and **Power BI** for interactive visualizations.   
 
----
-
 ## 🤝 Let’s Connect!  
 
 <p align="left">
@@ -80,8 +72,6 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 <a href="mailto:abdulrehman11403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/byabdulrehmann" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
 
 
 ⭐ From [Abdul Rehman](https://github.com/byabdulrehmann)
