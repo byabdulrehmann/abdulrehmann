@@ -11,6 +11,7 @@
 🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
 💬 Ask me about anything related to **Python, ML models, LLMs, or Web Automation**.
 
+
 ## 🎯 Expertise  
 
 - 📊 **Data Analysis** – uncovering insights from complex datasets  
@@ -18,6 +19,7 @@
 - 🤖 **AI Enthusiast** – passionate about artificial intelligence & deep learning  
 - ⚡ **Web Automation** – developing bots & automation scripts for efficiency  
 - 🧠 **Data Science** – machine learning, predictive modeling & applied research  
+
 
 ## 🛠️ Tech Stack  
 
@@ -34,6 +36,7 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 
 **🛠️ Tools:**  
  Jupyter | Google Colab | VS Code | Linux | Git   
+
 
 ## 🌟 Highlighted Projects  
 
@@ -64,6 +67,7 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 - Created a **real-time interactive dashboard** for monitoring COVID-19 cases worldwide.  
 - Integrated **live APIs** for case numbers, vaccinations, and recovery data.  
 - Built with **Python (Pandas, Matplotlib, Plotly)** and **Power BI** for interactive visualizations.   
+
 
 ## 🤝 Let’s Connect!  
 
