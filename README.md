@@ -12,7 +12,7 @@
 💬 Ask me about anything related to **Python, ML models, LLMs, or Web Automation**.
 
 
-## 🎯 Expertise  
+## 🎯 Expertise
 
 - 📊 **Data Analysis** – uncovering insights from complex datasets  
 - 📈 **Dashboards** – building interactive reports with Power BI & Python  
@@ -21,7 +21,7 @@
 - 🧠 **Data Science** – machine learning, predictive modeling & applied research  
 
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 **👨‍💻 Languages:**  
 Python | SQL | R | JavaScript | HTML | CSS | Java  
@@ -38,7 +38,7 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
  Jupyter | Google Colab | VS Code | Linux | Git   
 
 
-## 🌟 Highlighted Projects  
+## 🌟 Highlighted Projects
 
 🚀 **[VISE – Video Intelligence & Segmentation Engine](#)**  
 - Proud to launch **VISE**, our research-based **Final Year Project**: an **unsupervised deep learning framework** for Video Object Segmentation.  
@@ -69,7 +69,7 @@ FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy
 - Built with **Python (Pandas, Matplotlib, Plotly)** and **Power BI** for interactive visualizations.   
 
 
-## 🤝 Let’s Connect!  
+## 🤝 Let’s Connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrehmaan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
